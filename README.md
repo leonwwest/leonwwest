@@ -1,21 +1,25 @@
 # Leon Westermeir
 
-I build practical software around APIs, automation, mobile apps, data workflows,
-and operational tooling.
+I automate operational workflows and turn scattered data into useful reporting.
+My focus is Python, REST APIs, n8n, Power BI, and small AI-assisted automations —
+with tests, documentation, and a clean handover.
 
-## Portfolio Projects
+Available for clearly scoped, fully remote freelance work (10–12 hours/week).
 
-- [CloudScrobble iOS](https://github.com/leonwwest/cloudscrobble-ios) - Swift/iOS SoundCloud player with Last.fm scrobbling, a Go token broker, Cloudflare Worker proxy, tests, and an iOS project setup.
-- [Ludo Club](https://github.com/leonwwest/ludo-club) - Flutter board game with pure Dart Ludo rules, Material 3 UI, generated assets, local state, and focused widget/controller/rules tests.
-- [FastAPI ML Demo](https://github.com/leonwwest/fastapi-ml-demo) - FastAPI prediction API with Pydantic validation, OpenAPI docs, deterministic ML-style scoring, and pytest/httpx coverage.
-- [Safari Video Speed Controller](https://github.com/leonwwest/safari-video-speed-controller) - Local Safari Web Extension for video/audio speed control with privacy-first local analytics.
-- [Repo Audio Summary](https://github.com/leonwwest/repo-audio-summary) - macOS automation that turns Git repository changes into German audio summaries with local LLM/TTS tooling and Telegram delivery.
-- [Titanic Classification](https://github.com/leonwwest/titanic-classification) - Compact ML workflow with preprocessing, Random Forest training, Kaggle data download helper, and evaluation utilities.
+## Featured Work
 
-## Current Focus
+- [Operations KPI Automation](https://github.com/leonwwest/operations-kpi-automation-demo) — an end-to-end data workflow with CSV validation and quarantine, FastAPI endpoints, KPI logic, Power Query/DAX templates, an importable n8n workflow, automated tests, and CI. [Live demo](https://operations-kpi-automation-demo.vercel.app)
+- [WhatsApp School Assistant Demo](https://github.com/leonwwest/whatsapp-school-assistant-demo) — a grounded AI workflow prototype with source retrieval, safety checks, human handoff, FastAPI endpoints, n8n workflow, tests, and CI. [Live demo](https://whatsapp-school-assistant-demo.vercel.app)
+- [CloudScrobble iOS](https://github.com/leonwwest/cloudscrobble-ios) — a Swift/iOS SoundCloud player with Last.fm scrobbling, offline Keychain queueing, a Go token broker, a Cloudflare Worker, and automated tests.
+- [FastAPI ML Demo](https://github.com/leonwwest/fastapi-ml-demo) — a typed prediction API with Pydantic validation, OpenAPI documentation, deterministic ML-style scoring, and pytest/httpx coverage.
+- [Repo Audio Summary](https://github.com/leonwwest/repo-audio-summary) — macOS automation that turns Git repository changes into local German audio summaries and Telegram briefings.
 
-- Python APIs, automation, and tests
-- Swift/iOS app architecture and API integration
-- Flutter UI, state management, and game logic
-- Cloud/backend glue for small product workflows
+## What I Can Deliver
 
+- Connect systems through REST APIs and automate recurring data flows
+- Build or improve Power BI reporting and its data preparation
+- Implement small Python/FastAPI services and n8n workflows
+- Turn a manual process into a tested, documented prototype
+
+For freelance enquiries, the best starting point is a small paid pilot with a
+clear result and scope.
