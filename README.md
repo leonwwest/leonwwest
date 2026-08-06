@@ -1,31 +1,37 @@
 # Leon Westermeir
 
-I build practical cloud and automation systems: Python services, data-quality pipelines,
-Azure/Microsoft 365 governance, GitOps delivery and observable workloads. My projects focus on
-repeatable operations, explainable decisions, tests, runbooks and a clean handover.
+Cloud & Automation Engineer focused on Python, Azure/Microsoft 365, Kubernetes/GitOps,
+observability and reliable data workflows.
 
-Available for clearly scoped, fully remote freelance work (10–12 hours/week).
+I build reproducible systems with tests, CI, architecture decisions and practical runbooks. I am
+open to full-time Cloud, Platform, DevOps and Automation roles in Germany or remote.
 
-## Featured Work
+## Core portfolio
 
-- [Azure & M365 Tenant Guard](https://github.com/leonwwest/azure-m365-automation-lab) — a tenant-safe governance lab with sanitized inventory export, deterministic security checks, an explainable score, Markdown/JSON evidence and approval-gated remediation plans.
-- [GitOps Platform Lab](https://github.com/leonwwest/gitops-platform-lab) — a complete path from tested FastAPI service to container, Kustomize Desired State, Argo CD reconciliation, policy controls, SLOs, observability and recovery exercises.
-- [Slow AI App Incident Lab](https://github.com/leonwwest/slow-ai-app-incident-lab) — metrics, structured logs, traces, alerts and explainable incident automation for latency, errors and AI cost, with ranked hypotheses and operator runbooks.
-- [Operations KPI Automation](https://github.com/leonwwest/operations-kpi-automation-demo) — an end-to-end ETL workflow with a versioned data contract, quality gates, quarantine, lineage, FastAPI endpoints, Power Query/DAX templates, n8n automation, tests and CI. [Live demo](https://operations-kpi-automation-demo.vercel.app)
+| Project | Engineering evidence | Stack |
+|---|---|---|
+| [Azure & M365 Tenant Guard](https://github.com/leonwwest/azure-m365-automation-lab) | Sanitized tenant inventory, deterministic governance checks, evidence reports and approval-gated remediation | Python, PowerShell, Azure/M365 |
+| [GitOps Platform Lab](https://github.com/leonwwest/gitops-platform-lab) | Tested service delivery, Git reconciliation, policy controls, SLOs, observability and recovery exercises | Kubernetes, Argo CD, Kustomize, Prometheus |
+| [Incident Automation Lab](https://github.com/leonwwest/slow-ai-app-incident-lab) | Metrics, logs, traces, alerting and explainable SEV triage with safe dry-run actions | FastAPI, Grafana, Loki, OpenTelemetry |
+| [Data Quality Pipeline](https://github.com/leonwwest/operations-kpi-automation-demo) | Versioned data contract, quality gates, quarantine, lineage and operational KPIs | Python, FastAPI, Power BI, n8n |
 
-## Additional Projects
+## What I bring
 
-- [WhatsApp School Assistant Demo](https://github.com/leonwwest/whatsapp-school-assistant-demo) — a grounded AI workflow prototype with source retrieval, safety checks, human handoff, FastAPI endpoints, n8n workflow, tests, and CI. [Live demo](https://whatsapp-school-assistant-demo.vercel.app)
-- [CloudScrobble iOS](https://github.com/leonwwest/cloudscrobble-ios) — a Swift/iOS SoundCloud player with Last.fm scrobbling, offline Keychain queueing, a Go token broker, a Cloudflare Worker, and automated tests.
-- [FastAPI ML Demo](https://github.com/leonwwest/fastapi-ml-demo) — a typed prediction API with Pydantic validation, OpenAPI documentation, deterministic ML-style scoring, and pytest/httpx coverage.
-- [Repo Audio Summary](https://github.com/leonwwest/repo-audio-summary) — macOS automation that turns Git repository changes into local German audio summaries and Telegram briefings.
+- Automate Azure/M365 inventory, evidence and governance workflows.
+- Package and operate Python services through containers, Kubernetes and GitOps.
+- Build versioned ETL pipelines with data-quality controls and operational reporting.
+- Add metrics, logs, traces, alerts, incident triage and operator-focused runbooks.
+- Learn unfamiliar systems quickly and turn the result into repeatable, documented operations.
 
-## What I Can Deliver
+## Engineering approach
 
-- Automate Azure/M365 inventory, evidence and governance workflows
-- Design versioned ETL pipelines with data-quality checks and operational reporting
-- Package and operate Python services through containers, Kubernetes and GitOps
-- Add metrics, logs, traces, alerting, incident triage and practical runbooks
+Every core project is designed to be inspectable: the repository explains what is automated,
+how it is verified, which decisions were made and where a production implementation would need
+additional controls. The projects are reproducible portfolio labs, not claims of operating a
+real customer tenant or production cluster.
 
-For freelance enquiries, the best starting point is a small paid pilot with a
-clear result and scope.
+## Additional work
+
+- [WhatsApp School Assistant](https://github.com/leonwwest/whatsapp-school-assistant-demo) — grounded AI automation with source retrieval, safety checks and human handoff. [Live demo](https://whatsapp-school-assistant-demo.vercel.app)
+- [CloudScrobble iOS](https://github.com/leonwwest/cloudscrobble-ios) — Swift/iOS client, Go token broker, Cloudflare Worker and Keychain-backed offline queue.
+- [Repo Audio Summary](https://github.com/leonwwest/repo-audio-summary) — local macOS automation for Git summaries and Telegram briefings.
